@@ -2,7 +2,7 @@
 
 **Filimon H/Mariam's First Git hub project**
 
-_This is the readme file preview by Filimon H/Mariam_
+_This is a readme file preview by Filimon H/Mariam_
 
 _I am very excited about alx._
 
